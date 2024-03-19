@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(40, 100, 220, 0.883);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,body {
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.central{
+    background-color: white;
+    width: 22vw;
+    height: 60vh;
+    border-radius: 2%;
+    margin: 10rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#email{
+    width: 85%;
+    height: 7%;
+    font-size: 12px;
+}
+
+
+#button{
+    background-color: rgb(57, 128, 250);
+    color: white;
+    width: 90%;
+    height: 10%;
+    border: 1px;
+    border-radius:2%;
+    font-size: 16px;
+}
+
+p{
+    margin-top: 0%;
+    font-size: 14px;
+}
+.face{
+    background-color:  rgb(57, 128, 250);
+    border-radius: 2.1%;
+    color: white;
+}
+.google{
+    margin-top: 0.7rem;
+    color: rgba(31, 31, 31, 0.543);
+    border: 1px solid rgba(128, 128, 128, 0.34);
+    font-weight: 700;
+}
+
+.auto-login {
+    text-align: center;
+    width: 19.5vw;
+    height: 5vh;
+    padding: 5px;
+    border-radius: 2.5%;
+}
+
+img{
+    background-color: white;
+    border: none;
+    border-radius: 100%;
+}
+
+.icone{
+    width: 20px;
+}
+
+div.senha {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 87%;
+    height: 7%;
+    display: flex;
+}
+
+input.senha {
+    width: 100%;
+    height: 90%;
+    border: none;
+}
+
+img.senha {
+    height: 2rem;
+}

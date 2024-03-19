@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#containers1{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(30, 30, 184, 0.596);
+    position: relative;
+}
+
+#containers2{
+    position: absolute;
+    ma
+    background-color: rgba(30, 30, 184, 0.596);
+}

@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.c1{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+}
+.c2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 0);
+}
+.c3{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 217, 0);
+}
+.c4{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(145, 255, 0);
+}
+.c5{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 34);
+}
+.c6{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 106);
+}
+.c7{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(195, 0, 255);
+}
+.c8{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 213);
+}
+.c9{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 2, 3);
+}
+.c10{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(0, 255, 136);
+}

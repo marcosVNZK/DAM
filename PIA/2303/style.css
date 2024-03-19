@@ -1,0 +1,18 @@
+.meio{
+    background-color: rgb(0, 217, 255);
+    border: 3px dashed green;
+}
+
+table{
+    border: 1px solid rgba(0, 178, 6, 0.632);
+    width: 60vw;
+    height: 80vh;
+    border-style: double; 
+}
+
+td,tr{
+    border: 1px solid black;
+}
+.pr1{
+    width: 25vh;
+}

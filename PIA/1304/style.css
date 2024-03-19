@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(251, 251, 236);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    margin-left: 30%;
+    border: 2px solid rgb(136, 237, 255);
+    height: 20vh;
+    width: 15%;
+    text-align: center;
+    margin-top: 7%;
+    padding: 7%;
+    border-radius: 3%;
+}
+
+#login{
+    color: hsl(186.43deg 91.8% 23.92%);
+    font-size: 40px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid;
+}

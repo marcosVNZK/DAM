@@ -1,0 +1,10 @@
+ul{
+    list-style-type:disc ;
+}
+span{
+    color:red
+}
+
+ul {
+    list-style-image: url('imagem.gif');
+  }

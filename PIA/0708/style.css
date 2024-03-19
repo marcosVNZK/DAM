@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    border: 1px solid rgb(255, 0, 200);
+}
+li{
+    display: inline-block;
+    padding: 1%;
+}
+li:hover{
+    color: rgb(214, 8, 255);
+    background-color: rgb(20, 20, 20);
+}
+
+li:active{
+    background-color: rgba(255, 57, 57, 0.733);
+}
+
+li:hover i{
+    color: rgb(255, 6, 193);
+    
+}
+
+i{
+margin: 3px;
+}

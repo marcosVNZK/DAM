@@ -1,0 +1,53 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.conteiner{
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.quadrado{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 230, 42);
+    border: 10px solid rgba(0, 0, 139, 0.713);
+}
+
+.circuloMenor{
+    position: absolute;
+    left: 19px;
+    top: 18px;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 100%;
+    border: 7px solid rgba(0, 88, 0, 0.91);
+    z-index: 0;
+}
+
+.circuloMaior{
+    position: absolute;
+    left: 60px;
+    top: 50px;
+    width: 250px;
+    height: 250px;
+    background-color: transparent;
+    border-radius: 100%;
+    border: 5px solid blue;
+}
+
+img{
+    position: absolute;
+    left: 30%;
+    top: 75%;
+    z-index: 99;
+}

@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(33, 29, 90);
+}
+
+a[target]{color:red;}
+
+a[target =":blank"]{color: aqua;}
+
+a[target ~=":blank"]{color: aqua;}
+
+p[target ~=":flower"]{color: aqua;}
+
+[class |= "top"]{color: blue;}
+
+[class ^= "top"]{color: antiquewhite;}
+
+[class $= "test"]{color: aliceblue;}
+
+[class *= "te"]{color: chocolate;}
+

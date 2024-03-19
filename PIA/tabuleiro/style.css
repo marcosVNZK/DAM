@@ -1,0 +1,17 @@
+table{
+    width: 50vw;
+    height: 70vh;
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.preto{
+    background-color: black;
+    border-radius: 50%;
+}

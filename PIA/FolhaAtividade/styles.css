@@ -1,0 +1,46 @@
+h1{
+   text-align: center;
+   background-color: grey;
+   border-top: 3px solid black;
+   border-bottom: 5px solid black;
+}
+
+h2{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   margin-left: 200px;
+   margin-right: 200px
+}
+
+h3{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: inherit;
+   text-indent: 70px;
+   font-size: 26.3px;
+   margin-left: 200px;
+   margin-right: 200px
+}
+
+p{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: inherit;
+   font-size: 24px;
+   margin-left: 200px;
+   margin-right: 200px;
+   text-align: justify;
+   font-weight:500 ;
+}
+
+.indentado{
+   text-indent: 70px;
+}
+
+.alinhado-esquerda{
+   padding-left: 40%;
+   text-align: left;
+}
+
+footer{
+   border-top: 5px solid black;
+   font-size: 35px;
+}

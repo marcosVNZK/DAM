@@ -1,0 +1,35 @@
+.img1{
+    width: 200px;
+    height: 200px;
+    float: none;
+}
+
+.img2{
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+
+.img3{
+    width: 200px;
+    height: 150px;
+    float: right;
+}
+
+.p1{
+    width: 200px;
+    height: 150px;
+}
+
+.p2{
+    width: 200px;
+    height: 150px;
+}
+
+
+.p3{
+    float: left;
+    width: 200px;
+    height: 150px;
+}
+
