@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Estilos para tela grande */
+        .conteudo {
+          width: 800px;
+          margin: 0 auto;
+          font-size: 18px;
+        }
+    
+        /* Estilos para tela média */
+        @media screen and (max-width: 800px) {
+          .conteudo {
+            width: 90%;
+            font-size: 16px;
+          }
+        }
+    
+        /* Estilos para tela pequena */
+        @media screen and (max-width: 600px) {
+          .conteudo {
+            width: 100%;
+            font-size: 14px;
+          }
+        }
+      </style>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"></script>
+    <title>Frase especial</title>
+</head>
+<body>
+<div>
+        <h1>Adicione e receba uma surpreza!</h1>
+    <form action="">
+        <input type="text" id="pessoa" placeholder="Adicione seu nome:" required>
+        <input type="submit" value="Resultado." class="botao" onclick="clica()">
+    </form>
+    <p id="clica()"></p>
+</div>
+</body>
+</html>
